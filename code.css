@@ -521,26 +521,26 @@
 }
 /* X button at settings */
 .theme-dark .closeButton-1tv5uR {
-    border-color: #52a292;
+    border-color: #840a01;
 }
 .theme-dark .keybind-KpFkfr {
-    color: #5dceb7;
+    color: #a35303;
 }
 .theme-dark .closeButton-1tv5uR svg[name="Close"] path {fill: #52a292; d: path('M 9.5 3.205 L 8.795 2.5 L 6 5.295 L 3.205 2.5 l -0.705 0.705 L 5.295 6 L 2.5 8.795 l 0.705 0.705 L 6 6.705 L 8.795 9.5 l 0.705 -0.705 L 6.705 6');}
 
 /* button rectangle inline */
 .theme-dark .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
 	background-color: rgba(61, 255, 35, 0.3)!important;
-    border: 1px solid #096c5a!important;
+    border: 1px solid #c60000!important;
 }
 
 /* checker box */
 .theme-dark .checked-3_4uQ9, .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    background-color: #014942;
-    border-color: #096c5a!important;
+    background-color: #a54500;
+    border-color: #02506d!important;
 }
 .checkbox .checkbox-inner input[type=checkbox]:checked+span:after {
-    border-color: #0d9e84;
+    border-color: #6b0202;
 }
 .theme-dark .checked-3_4uQ9 svg[name="Checkmark"] polyline {stroke: #0d9e84; stroke-width: 2;}
 
@@ -709,7 +709,7 @@
     background-color: rgba(0, 79, 46, 0.25);
     border-color: rgba(98, 214, 210, 0.1);
 }
-https://i.imgur.com/mZuRmBg.gifv
+https://i.mgur.com/mZuRmBg.gifv
 /* spinning when loading new messages */
 .spinner-wandering-cubes .spinner-item {
     background-color: #2cf910;
