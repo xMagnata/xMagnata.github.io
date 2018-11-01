@@ -1,7 +1,7 @@
 /* Discord Guild Icon */
 .theme-dark .homeIcon-1FoKUJ {
 	background: var(--background-guild-icon-image);
-	color: transparent;
+	color: #09352f;
 }
 
 /**/
@@ -418,7 +418,7 @@
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover, #bd-settings-sidebar .ui-tab-bar-item:hover, .channel-2QD9_O:hover a {
     background: -webkit-linear-gradient(left, rgba(98, 214, 210, 0.2) 0%,rgba(61, 255, 35, 0.1) 100%);
 	border: 1px solid rgba(98, 214, 210, 0.1);
-}
+}z
 /* my account box unopened */
 .theme-dark .cardPrimary-1Hv-to {
     background: rgba(0, 79, 46, 0.25);
