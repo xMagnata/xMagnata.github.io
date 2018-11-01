@@ -107,6 +107,16 @@
     border: 2px solid #093b30!important;
 }
 
+
+.bodyline {
+-moz-box-shadow: 0px 20px 20px #86CEEB;
+-webkit-box-shadow: 0px 20px 20px #86CEEB;
+}
+
+
+
+
+
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: -webkit-linear-gradient(bottom, rgba(98, 214, 210, 0.3) 0%,rgba(61, 255, 35, 0.3) 100%);
@@ -120,7 +130,7 @@
 
 /* Discord Guild Icon */
 .theme-dark .homeIcon-1FoKUJ {
-	background: url(https://i.imgur.com/sO0OAwL.png) center/cover no-repeat;
+	background: url(https://imgur.com/15bd542a-d8b6-477e-a88a-5d46c86f2b30) center/cover no-repeat;
 	color: transparent;
 }
 .app .guild-1EfMGQ .guildInner-3DSoA4[style*="border-radius: 25px; background-color: rgb(47, 49, 54);"] {
